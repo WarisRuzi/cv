@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #f97d0c;
+    text-align: center;
+}
+
+p {
+    color: #dd5625;
+    padding: 14px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(228, 255, 130);
+
+}
+
+h1 {
+    color: #21cff3;
+    padding: 14px;
+    margin: 10px;
+    text-align: right;
+    background-image: url("../meet-me-opl/assets/img/gallery/img-3.jpg");
+}
+
+h2 {
+    color: orangered;
+    background-color: #ebebeb;
+    text-align: left;
+}
+
+img {
+    background-color: #d6d8db;
+    margin: 15px;
+    height: 480px;
+    width: 640px;
+}
+
+.myClass {
+    background-color: #c7ebe6;
+    color: #ff3518;
+    text-align: center;
+}
+
+p a:hover {
+    font-size: 20pt;
+}
+
+.btn {
+    height: 30px;
+    width: 80px;
+    color: black;
+    background: #f0f0f0;
+    border-left: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-right: 2px solid #6a6a6a;
+    border-bottom: 2px solid #6a6a6a;
+    background: #c0c0c0;
+    border-radius: 10px;
+}
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+
+
